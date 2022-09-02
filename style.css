@@ -1,0 +1,79 @@
+/*
+Included google fonts:
+font-family: 'Comfortaa', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Sedgwick Ave', cursive;
+font-family: 'VT323', monospace;
+font-family: 'Gloria Hallelujah', cursive;
+*/
+
+
+
+body {
+  background: lightgrey;  
+  font-family: 'Comfortaa', cursive;
+  color: black;
+
+}
+
+#contentArea {
+  padding-top: 2%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+h1 {
+}
+
+#results {
+  
+}
+
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+
+#files {
+  margin: 1rem;
+}
+
+.tab-content {
+  border: solid 5px white;
+}
+
+button{
+    border:0;
+    border-radius: 15px;
+    background:white;
+    margin: 1rem;
+}
+
+button:hover {
+  color: inherit; /* general colors for links too */
+  text-decoration: none; /* no underline */
+  font-weight: bold;
+}
+
+a {
+  color: inherit; /* general colors for links too */
+  text-decoration: none; /* no underline */
+}
+a:hover {
+  color: inherit; /* general colors for links too */
+  text-decoration: none; /* no underline */
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+.footer {
+  font-size: small;
+  padding-top: 50px;
+  padding-left: 15%;
+  padding-right: 15%;
+  width: 100%;
+}
